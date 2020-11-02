@@ -1,6 +1,4 @@
-# Python Video TO Gif Converter
-
----
+# Python Video To Gif Converter
 
 python video to gif converter take a video make it a gif
 
@@ -27,3 +25,6 @@ python video to gif converter take a video make it a gif
 “Don’t spend time beating on a wall, hoping to transform it into a door.”
                                                                – Coco Chanel
 </pre>
+
+[instagram]: https://www.instagram.com/gamer_x122/
+[facebook]: https://www.facebook.com/mdsadman.sakibkhan.39/
