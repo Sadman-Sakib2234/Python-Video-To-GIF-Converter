@@ -19,6 +19,8 @@ python video to gif converter take a video make it a gif
 [<img align="left" alt="sadman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sadman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br/>
+
 ---
 
 <pre>
